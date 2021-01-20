@@ -1,3 +1,2 @@
 # Python
-# This repository displays exercises and what I've worked on as I learn and progress through Python. 
-# I have taken a class at NYU, and engage in self directed learning. Anything that says "HW" or "NYU_P4PP" is for the NYU class. NYU_P4PP stands for NYU Python for Public Policy.
+# This repository displays exercises that I have worked on for an NYU Python coding class. It is a mix of my own code and commentary prompted by a professor.
